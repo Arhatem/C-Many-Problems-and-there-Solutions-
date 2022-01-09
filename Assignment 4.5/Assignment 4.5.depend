@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636004761 source:d:\projects\c\embedded systems\assignment 4.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Copy.h"
+
+1636004423 d:\projects\c\embedded systems\assignment 4.5\copy.h
+

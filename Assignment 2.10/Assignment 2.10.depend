@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630800805 source:d:\projects\c\embedded systems\c\assignment 2.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"countHoles.h"
+
+1630800936 d:\projects\c\embedded systems\c\assignment 2.10\countholes.h
+

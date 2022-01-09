@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1631092827 source:d:\projects\c\embedded systems\c\assingnment 3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"distnict.h"
+	<stdbool.h>
+
+1631092940 d:\projects\c\embedded systems\c\assingnment 3.2\distnict.h
+	<stdbool.h>
+

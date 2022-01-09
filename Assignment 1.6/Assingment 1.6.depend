@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630667042 source:d:\projects\c\embedded systems\c\assingment 1.6\main.c
+	<stdio.h>
+	<stdlib.h>
+

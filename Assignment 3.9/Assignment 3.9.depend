@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631646883 source:d:\projects\c\embedded systems\assignment 3.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fibonacci.h"
+
+1631647492 d:\projects\c\embedded systems\assignment 3.9\fibonacci.h
+

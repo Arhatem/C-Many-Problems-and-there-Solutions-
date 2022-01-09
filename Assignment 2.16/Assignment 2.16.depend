@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630928264 source:d:\projects\c\embedded systems\c\assignment 2.16\main.c
+	<stdio.h>
+	<stdlib.h>
+	"count_1s.h"
+
+1630928293 d:\projects\c\embedded systems\c\assignment 2.16\count_1s.h
+

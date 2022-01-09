@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631302989 source:d:\projects\c\embedded systems\c\assignment 3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Selection_sort.h"
+
+1631302989 d:\projects\c\embedded systems\c\assignment 3.4\selection_sort.h
+

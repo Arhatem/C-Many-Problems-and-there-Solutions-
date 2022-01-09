@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636003738 source:d:\projects\c\embedded systems\assignment 4.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"length_of_string.h"
+
+1636003978 d:\projects\c\embedded systems\assignment 4.2\length_of_string.h
+

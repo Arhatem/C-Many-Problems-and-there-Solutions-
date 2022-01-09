@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631017514 source:d:\projects\c\embedded systems\c\assignment 2.18\main.c
+	<stdio.h>
+	<stdlib.h>
+	"max_xor.h"
+
+1630932738 d:\projects\c\embedded systems\c\assignment 2.18\max_xor.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631190959 source:d:\projects\c\embedded systems\c\assignment 2.15\main.c
+	<stdio.h>
+	<stdlib.h>
+	"reverse_binary.h"
+
+1631190908 d:\projects\c\embedded systems\c\assignment 2.15\reverse_binary.h
+

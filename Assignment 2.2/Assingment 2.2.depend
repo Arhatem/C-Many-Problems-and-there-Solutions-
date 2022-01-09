@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630753200 source:d:\projects\c\embedded systems\c\assingment 2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alphapet.h"
+
+1630753201 d:\projects\c\embedded systems\c\assingment 2.2\alphapet.h
+

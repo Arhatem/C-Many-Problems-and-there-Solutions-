@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630929740 source:d:\projects\c\embedded systems\c\assignment 2.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"2power.h"
+
+1630929740 d:\projects\c\embedded systems\c\assignment 2.11\2power.h
+

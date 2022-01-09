@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1631190016 source:d:\projects\c\embedded systems\c\assignment 3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1631190088 d:\projects\c\embedded systems\c\assignment 3.3\bubble_sort.h
+
+1631190110 source:d:\projects\c\assignment 3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1631190088 d:\projects\c\assignment 3.3\bubble_sort.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630771509 source:d:\projects\c\embedded systems\c\assingment 2.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"op.h"
+
+1630771531 d:\projects\c\embedded systems\c\assingment 2.3\op.h
+

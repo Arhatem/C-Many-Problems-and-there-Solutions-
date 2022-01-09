@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630790838 source:d:\projects\c\embedded systems\c\assignment 2.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"even_or_odd.h"
+
+1630790819 d:\projects\c\embedded systems\c\assignment 2.5\even_or_odd.h
+

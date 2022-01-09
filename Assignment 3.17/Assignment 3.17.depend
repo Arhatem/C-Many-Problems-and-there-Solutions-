@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1634620489 source:d:\projects\c\embedded systems\assignment 3.17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Swap_arrays.h"
+
+1634620489 d:\projects\c\embedded systems\assignment 3.17\swap_arrays.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1631444676 source:d:\projects\c\embedded systems\assignment 3.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"geometric_series.h"
+
+1631444882 d:\projects\c\embedded systems\assignment 3.8\geometric_series.h
+	<math.h>
+

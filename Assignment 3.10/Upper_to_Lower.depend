@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634480197 source:d:\projects\c\embedded systems\upper_to_lower\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Upper_to_Lower.h"
+
+1634480407 d:\projects\c\embedded systems\upper_to_lower\upper_to_lower.h
+	"string.h"
+

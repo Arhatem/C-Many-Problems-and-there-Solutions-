@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635970526 source:d:\projects\c\embedded systems\assignment 3.20\main.c
+	<stdio.h>
+	<stdlib.h>
+	"A20.h"
+
+1635970555 d:\projects\c\embedded systems\assignment 3.20\a20.h
+

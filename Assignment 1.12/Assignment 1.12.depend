@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630672892 source:d:\projects\c\embedded systems\c\assignment 1.12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Factorial_recursion.h"
+
+1630672892 d:\projects\c\embedded systems\c\assignment 1.12\factorial_recursion.h
+

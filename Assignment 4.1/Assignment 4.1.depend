@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636003194 source:d:\projects\c\embedded systems\assignment 4.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sum_of_array.h"
+
+1636003138 d:\projects\c\embedded systems\assignment 4.1\sum_of_array.h
+

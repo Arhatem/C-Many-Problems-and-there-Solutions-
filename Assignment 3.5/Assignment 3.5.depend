@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631305850 source:d:\projects\c\embedded systems\c\assignment 3.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Linear_search_algorithm.h"
+
+1631310664 d:\projects\c\embedded systems\c\assignment 3.5\linear_search_algorithm.h
+
